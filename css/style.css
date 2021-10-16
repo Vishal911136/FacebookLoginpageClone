@@ -65,6 +65,7 @@ section
     font-size: 17px;
     border: 1px solid #80808052;
     border-radius: 6px;
+    outline-color: #166fe5;
 }
 .loginbtn
 {
