@@ -209,7 +209,7 @@ footer small
     }
     .left h2
     {
-        visibility: collapse;
+        visibility: hidden;
         font-size: 1px;
         position: fixed;
         bottom: 1px;
@@ -244,7 +244,7 @@ footer small
         bottom: 0;
     }
     .signuplink{
-        visibility: collapse;
+        visibility: hidden;
     }
     section
     {
