@@ -177,7 +177,7 @@ footer small
         right: 5%;
     }
 }
-@media screen and (max-width: 970px)
+@media screen and (max-width: 1040px)
 {
     .right
     {
@@ -198,7 +198,7 @@ footer small
     }
 }
 
-@media screen and (max-width: 750px) 
+@media screen and (max-width: 450px) 
 {
     body
     {
